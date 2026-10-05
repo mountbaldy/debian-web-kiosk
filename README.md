@@ -1,4 +1,5 @@
 # debian-web-kiosk
+![Kiosk](kiosk.jpg)
 
 Turn a fresh, minimal Debian install into a locked-down single-site web kiosk
 with one command.
